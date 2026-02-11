@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="400" viewBox="0 0 420 400">
+<svg xmlns="http://www.w3.org/2000/svg" width="420.051" height="399" viewBox="0 0 420.051 399">
   <g id="Grupo_1111512" data-name="Grupo 1111512" transform="translate(-895.051 -1739)">
-    <rect id="Rectángulo_404659" data-name="Rectángulo 404659" width="420" height="400" transform="translate(895.051 1739)" fill="#fed6a8"/>
-    <g id="Grupo_65672" data-name="Grupo 65672" transform="translate(947.82 1858.865)">
-      <g id="Background_Complete" data-name="Background Complete" transform="translate(0 -76.474)">
-        <g id="Grupo_64252" data-name="Grupo 64252" transform="translate(277.493 296.2)">
+    <rect id="Rectángulo_404659" data-name="Rectángulo 404659" width="420.051" height="399" transform="translate(895.051 1739)" fill="#f6cbc2"/>
+    <g id="Grupo_65672" data-name="Grupo 65672" transform="translate(947.82 1773.823)">
+      <g id="Background_Complete" data-name="Background Complete" transform="translate(0 8.568)">
+        <g id="Grupo_64252" data-name="Grupo 64252" transform="translate(277.544 295.2)">
           <g id="Grupo_64240" data-name="Grupo 64240" transform="translate(0)">
             <g id="Grupo_64221" data-name="Grupo 64221" transform="translate(3.03 9.897)">
               <g id="Grupo_64220" data-name="Grupo 64220">
@@ -83,7 +83,7 @@
             </g>
           </g>
         </g>
-        <g id="Grupo_64340" data-name="Grupo 64340" transform="translate(0 265.102)">
+        <g id="Grupo_64340" data-name="Grupo 64340" transform="translate(0 264.102)">
           <g id="Grupo_64281" data-name="Grupo 64281" transform="translate(52.48 7.442)">
             <g id="Grupo_64259" data-name="Grupo 64259" transform="translate(5.036)">
               <g id="Grupo_64258" data-name="Grupo 64258">
@@ -271,7 +271,7 @@
             </g>
           </g>
         </g>
-        <g id="Grupo_64215" data-name="Grupo 64215" transform="translate(195.943 0)">
+        <g id="Grupo_64215" data-name="Grupo 64215" transform="translate(195.994 0)">
           <g id="Grupo_64158" data-name="Grupo 64158">
             <g id="Grupo_64157" data-name="Grupo 64157">
               <g id="Grupo_64114" data-name="Grupo 64114" transform="translate(0.455)">
@@ -455,16 +455,16 @@
           </g>
         </g>
       </g>
-      <g id="Desk" transform="translate(0.149 279.52)">
+      <g id="Desk" transform="translate(0.149 363.562)">
         <g id="Grupo_64343" data-name="Grupo 64343">
           <g id="Grupo_64342" data-name="Grupo 64342">
             <g id="Grupo_64341" data-name="Grupo 64341">
-              <path id="Trazado_133196" data-name="Trazado 133196" d="M346.327,456.217c0,.1-74.11.187-165.508.187-91.43,0-165.523-.084-165.523-.187s74.094-.187,165.523-.187C272.216,456.03,346.327,456.114,346.327,456.217Z" transform="translate(-15.295 -456.03)" fill="#263238"/>
+              <path id="Trazado_133196" data-name="Trazado 133196" d="M346.378,456.217c0,.1-74.122.187-165.534.187C89.4,456.4,15.3,456.32,15.3,456.217s74.105-.187,165.549-.187C272.256,456.03,346.378,456.114,346.378,456.217Z" transform="translate(-15.295 -456.03)" fill="#263238"/>
             </g>
           </g>
         </g>
       </g>
-      <g id="Invoices" transform="translate(16.047 -85.042)">
+      <g id="Invoices" transform="translate(16.047 0)">
         <g id="Grupo_65169" data-name="Grupo 65169">
           <g id="Grupo_64617" data-name="Grupo 64617" transform="translate(0 10.966)">
             <g id="Grupo_64598" data-name="Grupo 64598">
@@ -2263,7 +2263,7 @@
           </g>
         </g>
       </g>
-      <g id="Speech_Bubble" data-name="Speech Bubble" transform="translate(228.246 42.853)">
+      <g id="Speech_Bubble" data-name="Speech Bubble" transform="translate(228.297 127.463)">
         <g id="Grupo_65181" data-name="Grupo 65181">
           <g id="Grupo_65176" data-name="Grupo 65176">
             <g id="Grupo_65175" data-name="Grupo 65175">
@@ -2292,7 +2292,7 @@
           </g>
         </g>
       </g>
-      <g id="Calculator" transform="translate(223.432 268.099)">
+      <g id="Calculator" transform="translate(223.483 352.141)">
         <g id="Grupo_65382" data-name="Grupo 65382">
           <g id="Grupo_65378" data-name="Grupo 65378">
             <g id="Grupo_65377" data-name="Grupo 65377">
@@ -2308,7 +2308,7 @@
           </g>
         </g>
       </g>
-      <g id="Character" transform="translate(58.343 30.106)">
+      <g id="Character" transform="translate(58.366 114.148)">
         <g id="Grupo_65671" data-name="Grupo 65671">
           <g id="Grupo_65390" data-name="Grupo 65390" transform="translate(64.136 1.049)">
             <g id="Grupo_65384" data-name="Grupo 65384">
