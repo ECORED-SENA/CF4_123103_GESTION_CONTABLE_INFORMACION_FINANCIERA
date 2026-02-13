@@ -71,21 +71,43 @@ figcaption
 .bg-color
   &-1
     background-color: #E6DCFB !important
+  &-1-1
+    background-color: #CBE7E8 !important
+  &-1-2
+    background-color: #FEEAD2 !important
   &-2
     background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,245,234,1) 30%, rgba(255,245,234,1) 70%, rgba(255,255,255,1) 100%)
   &-3
     background-color: #E2DACC
+  &-3-1
+    background-color: #CBE7E8
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3)
+  &-3-2
+    background-color: #F6CBC2
+  &-3-3
+    background-color: #FED5A7
+  &-3-4
+    background-color: #CBD8DF !important
+  &-3-5
+    background-color: #CBD8DF !important
+    border-color: #CBD8DF !important
   &-4
-    background-color: #FED6A8
+    background-color: #CBE7E8
     display: inline-block
   &-5
     color: #3E7DAD !important
   &-6
     background-color: #BCE0FC !important
+  &-6-1
+    background-color: #98D1D1 !important
+  &-6-2
+    background-color: #FBEAE6 !important
   &-7
     color: #5B39A6 !important
   &-8
     background-color: #DDEFFD
+  &-8-1
+    background-color: #E4EAEE
   &-9
     background-color: #F2ECFD
   &-10
@@ -93,7 +115,7 @@ figcaption
   &-11
     background-color: #5B39A6
   &-12
-    background-color: #FEEAD4
+    background-color: $color-acento-contenido
   &-13
     color: #A66D58 !important
   &-14
@@ -125,7 +147,7 @@ figcaption
 //CLASES REEMPLAZADAS//
 .lista-ol--cuadro__vineta
   color: $color-sistema-texto
-  background-color: #FED6A8
+  background-color: $color-acento-contenido
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   background-color: #FED401 !important
 .bloque-texto-b.color-secundario:before
@@ -139,15 +161,39 @@ figcaption
 .acordion .acordion__activo .acordion__header .acordion__titulo h3
   color: #000 !important
 .tarjeta-numerada.color-primario
-  border-color: #F3F0EA
-  background-color: #F3F0EA
+  border-color: #F6CBC2
+  background-color: #F6CBC2
 .tarjeta-numerada.color-primario .tarjeta-numerada__numero
   background-color: #FD9826
 .tarjeta-numerada__numero
   top: 35%
 .tabla-a.color-acento-botones thead
-  border-color: #FEEAD4
+  border-color: $color-acento-contenido
+  background-color: $color-acento-contenido !important
 .tabla-a th, table td 
   text-align: start
 .banner-principal__row .banner-principal__img
   width: 500px !important
+.separador__tabla
+  background-color: #F6F6F6
+
+
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+.acordeonA
+  position: relative
+  background-color: $color-primario
+  width: 100%
+  @media screen and (max-width: 1200px)
+    width: 100%
+  p
+    padding-left: 3.5rem
+.acordion__titulo
+  h3
+    color: white !important
+.acordion__activo
+  background-color: #CBD8DF !important
+  h3
+    color: $color-sistema-texto !important
+  p
+    padding-left: 4.4rem

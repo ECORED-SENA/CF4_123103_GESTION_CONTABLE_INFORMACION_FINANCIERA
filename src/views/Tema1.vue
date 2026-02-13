@@ -26,7 +26,7 @@
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
-            .tarjeta--boton.bg-color-3.p-4.h-100
+            .tarjeta--boton.bg-color-3-1.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-7
                   figure
@@ -38,7 +38,7 @@
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
-            .tarjeta--boton.bg-color-3.p-4.h-100
+            .tarjeta--boton.bg-color-3-1.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-7
                   figure
@@ -50,7 +50,7 @@
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
-            .tarjeta--boton.bg-color-3.p-4.h-100
+            .tarjeta--boton.bg-color-3-1.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-7
                   figure
@@ -61,7 +61,7 @@
 
         .row.justify-content-center
           .col-lg-10(data-aos="fade-right")
-            div.bg-color-1.tarjeta.p-4
+            div.bg-color-1-2.tarjeta.p-4
               h5 Concepto
               p.mb-0 Los impuestos tienen su origen en los fundamentos vistos en la Constitución Política de Colombia, según el cual todas las naciones están en el deber de contribuir al financiamiento de los gastos e inversiones del Estado dentro de los conceptos de justicia y equidad (artículo 95, numeral 9º de la Constitución Política de Colombia).
 
@@ -75,7 +75,7 @@
         p.mb-4 Luego de estudiar las diferencias entre los tributos: tasas, contribuciones e impuestos; ahora se profundizará en las generalidades de los impuestos. Conforme a esto, se relacionan los siguientes elementos:
         .row.justify-content-center.mb-5.align-items-center
           .col-lg-9.mb-3.mb-lg-0.order-lg-2
-            SlyderF(columnas="col-md-6 col-xl-4")
+            SlyderF(columnas="col-md-6 col-xl-6")
               .bg-color-white.tarjeta.p-4.h-100.shadow-app.text-center
                 img(src='@/assets/curso/tema1/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.mb-4.bg-color-4.px-4 Sujeto activo
@@ -118,7 +118,7 @@
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
-      .col-md.tarjeta.bg-color-6.p-5 
+      .col-md.tarjeta.bg-color-6-1.p-5 
         h4 Impuestos directos
         p Son pagados por la persona a quien se grava, cuya relación fiscal es directamente con el sujeto activo del impuesto, afectando principalmente los ingresos o pertenencias. 
         h5.mb-3 Algunos ejemplos son:
@@ -138,7 +138,7 @@
           li.mb-0.d-flex
             i.far.fa-folder-open.bg-color-5
             p.mb-0 Impuesto vehículos.
-      .col-md.tarjeta.bg-color-1.p-5 
+      .col-md.tarjeta.bg-color-6-2.p-5 
         h4 Impuestos Indirectos
         p Recae sobre las operaciones gravadas a lo largo del ciclo económico, en forma no acumulada y con la metodología del valor agregado. Son aquellos, cuya responsabilidad jurídica es diferente a la persona que económicamente asume el impuesto. 
         h5.mb-3 Ejemplos de Martínez et al. (2016):
@@ -196,7 +196,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
-        div.bg-color-8.tarjeta.p-5
+        div.bg-color-8-1.tarjeta.p-5
           p.mb-0 A continuación, se realizará una breve descripción de cada uno de estos. Recuerde que para profundizar debe tener en cuenta el Estatuto Tributario (ET)- Decreto 0624 de 1989, así como, la normatividad legal vigente.
 
     h3.bg-color-4.tarjeta.p-3.mb-5 Impuesto sobre las ventas
@@ -208,7 +208,7 @@
         h3.bg-color-4.tarjeta.p-3.mb-5 Clasificación de bienes y servicios
         .row.mb-5
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-down")
-            .tarjeta--boton.bg-color-3.p-4.h-100
+            .tarjeta--boton.bg-color-3-2.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-7
                   figure
@@ -217,7 +217,7 @@
               h3.text-center Gravados
               p Son aquellos que originan impuesto, teniendo en cuenta que se les asigna una tarifa establecida por disposición legal. Por lo anterior, es necesario verificar la tarifa general y las tarifas diferenciales para su correcta aplicación. Se localizan en el artículo 468 del Estatuto Tributario (ET).
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
-            .tarjeta--boton.bg-color-3.p-4.h-100
+            .tarjeta--boton.bg-color-3-2.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-7
                   figure
@@ -226,7 +226,7 @@
               h3.text-center Exentos
               p Son bienes que por normativa se encuentran gravados a la tarifa del 0 %. Quienes produzcan bienes exentos son responsables del impuesto a las ventas y, por tanto, deben declarar IVA, pero quienes comercialicen bienes exentos no son responsables del impuesto a las ventas. De este modo, sólo los productores de bienes exentos pueden solicitar como descuento el IVA pagado en sus compras. Se encuentran señalados en los artículos 477 a 481 del Estatuto Tributario (ET).
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-down")
-            .tarjeta--boton.bg-color-3.p-4.h-100
+            .tarjeta--boton.bg-color-3-2.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-7
                   figure
@@ -235,7 +235,7 @@
               h3.text-center Excluidos
               p Son aquellos bienes y servicios que por normatividad legal no se encuentran gravados a alguna tarifa, por ende, no se genera impuesto. Para conocer el listado es necesario remitirse al Estatuto tributario (ET) en los artículos 424-428 y 476 (ET), donde aparece un grupo de bienes identificados con la metodología del arancel de aduanas. El listado incluye la numeración o posición arancelaria (NANDINA) y la descripción de la mercancía, siguiendo los reinos de la naturaleza y sus fases de transformación. Colombia Compra Eficiente (2012).
 
-    div.bg-color-9.tarjeta.p-5.mb-5(data-aos="fade-right")
+    div.bg-color-8-1.tarjeta.p-5.mb-5(data-aos="fade-right")
       h5 Requisitos
       p.mb-0 <b>Según el artículo 437 del ET:</b> Deberán registrarse como responsables del IVA quienes realicen actividades gravadas con el impuesto, con excepción de las personas naturales comerciantes y los artesanos, que sean minoristas o detallistas, los pequeños agricultores y los ganaderos, así como quienes presten servicios, siempre y cuando cumplan la totalidad de las siguientes condiciones:
 
@@ -298,7 +298,7 @@
 
     p.mb-5 En el caso de pasar los límites establecidos en las condiciones registradas anteriormente, el contribuyente debe registrarse como responsable de IVA, de lo contrario será no responsable.
 
-    div.bg-color-9.tarjeta.p-5.mb-5(data-aos="fade-right")
+    div.bg-color-4.tarjeta.p-5.mb-5(data-aos="fade-right")
       h5 Periodos de presentación
       p.mb-0 De acuerdo con el Estatuto Tributario (ET) artículo 600, se establece el periodo gravable de forma bimestral y cuatrimestral teniendo en cuenta los siguientes requisitos:    
     
@@ -306,7 +306,7 @@
     .row.mb-5.justify-content-center
       .col-lg-10
         .tarjeta--container.row.mb-5
-          .col-md.tarjeta.bg-color-3.p-5(data-aos="fade-down")
+          .col-md.tarjeta.bg-color-3-3.p-5(data-aos="fade-down")
             .row.justify-content-center.mb-4
               .col-6
                 figure
@@ -315,7 +315,7 @@
             h2.text-center Bimestral
             p La declaración y pago bimestral para aquellos responsables de este impuesto, grandes contribuyentes y aquellas personas jurídicas y naturales cuyos ingresos brutos a 31 de diciembre del año gravable anterior sean iguales o superiores a noventa y dos mil (92.000) UVT y para los responsables de que tratan los artículos 477 y 481 de este Estatuto. Los períodos bimestrales son: enero-febrero; marzo-abril; mayo-junio; julio-agosto; septiembre-octubre; y noviembre-diciembre.
 
-          .col-md.tarjeta.bg-color-10.p-5(data-aos="fade-up")
+          .col-md.tarjeta.bg-color-3-4.p-5(data-aos="fade-up")
             .row.justify-content-center.mb-4
               .col-6
                 figure
@@ -324,7 +324,7 @@
             h2.text-center Cuatrimestral
             p Declaración y pago cuatrimestral para aquellos responsables de este impuesto, personas jurídicas y naturales cuyos ingresos brutos a 31 de diciembre del año gravable anterior sean inferiores a noventa y dos mil (92.000) UVT. Los periodos cuatrimestrales serán enero-abril; mayo-agosto; y septiembre-diciembre.
 
-    div.bg-color-9.tarjeta.p-5.mb-5(data-aos="fade-right")
+    div.bg-color-6-2.tarjeta.p-5.mb-5(data-aos="fade-right")
       h5 Categoría del impuesto a las ventas
       ul.lista-ul--color
         li.mb-0.d-flex
@@ -357,7 +357,7 @@
             figure
               img(src="@/assets/curso/tema1/21.svg", data-aos="zoom-in", style="width: 340px").m-auto
           .col-lg-8
-            AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-11")
+            AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
               div(titulo="Sujeto activo")
                 p.mb-0 Es el Estado y es administrado por la Dirección de Impuestos y Aduanas Nacionales (DIAN).
               div(titulo="Sujeto pasivo")
@@ -385,7 +385,7 @@
             figure
               img(src="@/assets/curso/tema1/23.svg", data-aos="zoom-in", style="width: 300px").m-auto
           .col-lg-9.order-1.mb-3.mb-lg-0
-            div.bg-color-9.tarjeta.p-5.mb-5(data-aos="fade-right")
+            div.bg-color-8-1.tarjeta.p-5.mb-5(data-aos="fade-right")
               ul.lista-ul--color
                 li.mb-4.d-flex
                   i.far.fa-folder-open.bg-color-7
@@ -504,7 +504,7 @@
             h5.mb-5 ARTÍCULO 904- Estatuto Tributario (ET). Hecho generador y base gravable del impuesto unificado bajo el régimen simple de tributación (simple). 
             p El hecho generador del impuesto unificado bajo el régimen simple de tributación (SIMPLE) es la obtención de ingresos susceptibles de producir un incremento en el patrimonio, y su base gravable está integrada por la totalidad de los ingresos brutos, ordinarios y extraordinarios, percibidos en el respectivo periodo gravable.
             p Para el caso del impuesto de industria y comercio consolidado, el cual se integra al impuesto unificado bajo el régimen simple de tributación (SIMPLE), se mantiene la autonomía de los entes territoriales para la definición de los elementos del hecho generador, base gravable, tarifa y sujetos pasivos, de conformidad con las leyes vigentes.
-            div.bg-color-8.tarjeta.p-5.mb-5
+            div.bg-color-4.tarjeta.p-5.mb-5
               p.mb-0 <b>PARÁGRAFO.</b> Los ingresos constitutivos de ganancia ocasional no integran la base gravable del impuesto unificado bajo el régimen simple de tributación (SIMPLE). Tampoco integran la base gravable los ingresos no constitutivos de renta ni ganancia ocasional. Recuerde explorar el Estatuto Tributario (ET) en el Libro octavo, Art. 903 al 916, para ampliar sus conocimientos.
 
     h3.bg-color-4.tarjeta.p-3.mb-4 Impuestos departamentales
@@ -544,7 +544,7 @@
     h3.bg-color-4.tarjeta.p-3.mb-4 Impuestos Municipales
     p.mb-4 Estos impuestos son recaudados por el municipio. Son instituidos por el concejo distrital o municipal, mediante acuerdos. 
 
-    AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-11")
+    AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
       div(titulo="Impuesto de Industria y Comercio")
         p El impuesto de Industria y Comercio se genera por el ejercicio o realización directa o indirecta de cualquier actividad industrial, comercial o de servicios en jurisdicción del Distrito Capital de Bogotá, ya sea que se cumplan de forma permanente u ocasional, en inmueble determinado, con establecimiento de comercio o sin ellos.
         p <b>Sujeto activo:</b>  es un impuesto administrado por el municipio o distrito.

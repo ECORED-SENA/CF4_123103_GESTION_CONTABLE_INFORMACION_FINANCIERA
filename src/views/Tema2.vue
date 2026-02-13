@@ -26,20 +26,20 @@
             figure
               img(src="@/assets/curso/tema2/2.png", data-aos="zoom-in", style="max-width: 550px").mx-auto
           .col-lg-8.order-1.mb-3.mb-lg-0
-            div.bg-color-9.tarjeta.p-4.mb-5(data-aos="fade-right")
+            div.bg-color-4.tarjeta.p-4.mb-5(data-aos="fade-right")
               p <b>De acuerdo con el Estatuto Tributario-0624 de 1989</b>, es fundamental atender la clasificación de los contribuyentes y no contribuyentes; por ende, es importante identificar el tipo de impuesto y las responsabilidades que se tiene en cada uno de estos.
 
               p Para continuar con el componente formativo propuesto, es importante abordar los términos de persona natural y jurídica, teniendo en cuenta que se manejan en el desarrollo del proceso de formación; por lo tanto, los relacionamos a continuación:
         .row
           .col-lg-4.mb-3.mb-lg-0 
-            div.bg-color-3.tarjeta.p-4.mb-5(data-aos="fade-right").h-100
+            div.bg-color-3-4.tarjeta.p-4.mb-5(data-aos="fade-right").h-100
               h5 Persona natural
               p.mb-0 Hace referencia a todos los individuos de la especie humana, cualquiera que sea su edad, sexo, estirpe o condición. Art. 74 Código Civil. Hace referencia a empresas de propietario único.
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema2/3.svg", data-aos="zoom-in", style="max-width: 450px").mx-auto
           .col-lg-4.mb-3.mb-lg-0
-            div.bg-color-12.tarjeta.p-4.mb-5(data-aos="fade-right").h-100
+            div.bg-color-3-3.tarjeta.p-4.mb-5(data-aos="fade-right").h-100
               h5 Persona jurídica
               p.mb-0 Se llama persona jurídica a una persona ficticia, capaz de ejercer derechos y contraer obligaciones civiles, y de ser representada judicial y extrajudicialmente. Art. 633 Código Civil. En términos generales, hablamos de las sociedades que realizan un contrato de sociedad, donde realizan un aporte de dinero o trabajo con el fin de distribuirse las utilidades al final del periodo.
     
@@ -50,7 +50,7 @@
     
     p.mb-4 El concepto de contribuyente y declarante es clave en el sistema tributario, ya que define quiénes están obligados a pagar impuestos y presentar declaraciones.
 
-    div.bg-color-8.tarjeta.p-4.mb-5(data-aos="fade-right")
+    div.bg-color-3-2.tarjeta.p-4.mb-5(data-aos="fade-right")
       h5 Art. 2. Contribuyentes- Estatuto Tributario (ET)
       p.mb-0 Son contribuyentes o responsables directos del pago del tributo los sujetos respecto de quienes se realiza el hecho generador de la obligación sustancial.
       p.mb-0 En esta clasificación se encuentran tres regímenes:
@@ -68,7 +68,7 @@
             figure
               img(src="@/assets/curso/tema2/4.svg", data-aos="zoom-in", style="max-width: 450px").mx-auto
           .col-lg-6.order-1.mb-3.mb-lg-0.pe-lg-0
-            div.bg-color-9.p-5.mb-5(data-aos="fade-right")
+            div.bg-color-1-2.p-5.mb-5(data-aos="fade-right")
               h5 Algunos de los contribuyentes de este régimen son: 
               ul.lista-ul--color.mb-0
                 li.mb-3.d-flex
@@ -106,7 +106,7 @@
             figure
               img(src="@/assets/curso/tema2/5.svg", data-aos="zoom-in", style="max-width: 450px").mx-auto
           .col-lg-6.order-1.mb-3.mb-lg-0.pe-lg-0
-            div.bg-color-9.p-5.mb-5(data-aos="fade-right")
+            div.bg-color-1-2.p-5.mb-5(data-aos="fade-right")
               h5.mb-5.mt-3 Dentro de esta clasificación encontramos: 
               p Todas las asociaciones, fundaciones y corporaciones constituidas como entidades sin ánimo de lucro.
         p.mb-4 Excepcionalmente, podrán solicitar ante la administración tributaria, de acuerdo con el artículo 356-2, su calificación como contribuyentes del Régimen Tributario Especial, siempre y cuando cumplan con los requisitos que se enumeran a continuación:
@@ -116,7 +116,7 @@
         figure
           img(src="@/assets/curso/tema2/6.svg", data-aos="zoom-in", style="max-width: 450px").mx-auto
       .col-lg-6.order-1.mb-3.mb-lg-0.pe-lg-0
-        div.bg-color-9.p-5.mb-5(data-aos="fade-right")
+        div.bg-color-1-2.p-5.mb-5(data-aos="fade-right")
           h5.mb-3 Algunos de los contribuyentes de este régimen son: 
           ol.lista-ol--cuadro
             li.d-flex 
@@ -145,7 +145,7 @@
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         //- estas clases tambien tienen un modificador --borde
-        .tarjeta-numerada.color-primario.p-3
+        .tarjeta-numerada.color-primario.p-3.bg-color-3-5
           .row.align-items-center.justify-content-end
             .col-lg-2.mb-3.mb-lg-0
               figure
@@ -156,7 +156,7 @@
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         //- estas clases tambien tienen un modificador --borde
-        .tarjeta-numerada.color-primario.p-3
+        .tarjeta-numerada.color-primario.p-3.bg-color-3-5
           .row.align-items-center.justify-content-end
             .col-lg-2.mb-3.mb-lg-0
               figure
@@ -167,7 +167,7 @@
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         //- estas clases tambien tienen un modificador --borde
-        .tarjeta-numerada.color-primario.p-3
+        .tarjeta-numerada.color-primario.p-3.bg-color-3-5
           .row.align-items-center.justify-content-end
             .col-lg-2.mb-3.mb-lg-0
               figure
@@ -178,7 +178,7 @@
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         //- estas clases tambien tienen un modificador --borde
-        .tarjeta-numerada.color-primario.p-3
+        .tarjeta-numerada.color-primario.p-3.bg-color-3-5
           .row.align-items-center.justify-content-end
             .col-lg-2.mb-3.mb-lg-0
               figure
@@ -189,7 +189,7 @@
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         //- estas clases tambien tienen un modificador --borde
-        .tarjeta-numerada.color-primario.p-3
+        .tarjeta-numerada.color-primario.p-3.bg-color-3-5
           .row.align-items-center.justify-content-end
             .col-lg-2.mb-3.mb-lg-0
               figure
@@ -200,7 +200,7 @@
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         //- estas clases tambien tienen un modificador --borde
-        .tarjeta-numerada.color-primario.p-3
+        .tarjeta-numerada.color-primario.p-3.bg-color-3-5
           .row.align-items-center.justify-content-end
             .col-lg-2.mb-3.mb-lg-0
               figure
@@ -267,115 +267,115 @@
               tr
                 td.text-center 1
                 td Aporte especial para la administración de justicia.
-              tr
+              tr.separador__tabla
                 td.text-center 2
                 td Gravamen a los movimientos financieros.
               tr
                 td.text-center 3
                 td Impuesto al patrimonio.
-              tr
+              tr.separador__tabla
                 td.text-center 4
                 td Impuesto renta y complementario régimen especial.
               tr
                 td.text-center 5
                 td  Impuesto renta y complementario régimen ordinario.
-              tr
+              tr.separador__tabla
                 td.text-center 6
                 td Ingresos y patrimonio.
               tr
                 td.text-center 7
                 td Retención en la fuente a título de renta.
-              tr
+              tr.separador__tabla
                 td.text-center 8
                 td Retención timbre nacional.
               tr
                 td.text-center 9
                 td Retención en la fuente en el impuesto sobre las ventas.
-              tr
+              tr.separador__tabla
                 td.text-center 10
                 td Obligado aduanero.
               tr
                 td.text-center 13
                 td Gran contribuyente.
-              tr
+              tr.separador__tabla
                 td.text-center 14
                 td Informante de exógena.
               tr
                 td.text-center 15
                 td Autorretenedor.
-              tr
+              tr.separador__tabla
                 td.text-center 16
                 td Obligación facturar por ingresos bienes y/o servicios excluidos.
               tr
                 td.text-center 17
                 td Profesionales de compra y venta de divisas.
-              tr
+              tr.separador__tabla
                 td.text-center 18
                 td Precios de transferencia.
               tr
                 td.text-center 19
                 td Productor de bienes y/o servicios exentos.
-              tr
+              tr.separador__tabla
                 td.text-center 20
                 td Obtención NIT.
               tr
                 td.text-center 21
                 td Declarar ingreso o salida del país de divisas o moneda. 
-              tr
+              tr.separador__tabla
                 td.text-center 22
                 td Obligado a cumplir deberes formales a nombre de terceros.
               tr
                 td.text-center 23
                 td Agente de retención en ventas.
-              tr
+              tr.separador__tabla
                 td.text-center 24
                 td Declaración consolidada precios de transferencia.
               tr
                 td.text-center 26
                 td Declaración individual precios de transferencia.
-              tr
+              tr.separador__tabla
                 td.text-center 32
                 td  Impuesto nacional a la gasolina y al ACPM.
               tr
                 td.text-center 33
                 td Impuesto nacional al consumo.
-              tr
+              tr.separador__tabla
                 td.text-center 36
                 td Establecimiento Permanente.
               tr
                 td.text-center 37
                 td Obligado a Facturar Electrónicamente.
-              tr
+              tr.separador__tabla
                 td.text-center 38
                 td Facturación Electrónica Voluntaria.
               tr
                 td.text-center 39
                 td Proveedor de Servicios Tecnológicos PST.
-              tr
+              tr.separador__tabla
                 td.text-center 41
                 td Declaración anual de activos en el exterior.
               tr
                 td.text-center 45
                 td Autorretenedor de rendimientos financieros.
-              tr
+              tr.separador__tabla
                 td.text-center 46
                 td IVA Prestadores de Servicios desde el exterior.
               tr
                 td.text-center 47
                 td Régimen Simple de Tributación – SIMPLE.
-              tr
+              tr.separador__tabla
                 td.text-center 48
                 td Impuesto sobre las ventas – IVA.
               tr
                 td.text-center 49
                 td No responsable de IVA.
-              tr
+              tr.separador__tabla
                 td.text-center 50
                 td No responsable de consumo restaurantes y bares.
               tr
                 td.text-center 51
                 td Agente retención impoconsumo de bienes inmuebles.
-              tr
+              tr.separador__tabla
                 td.text-center 52
                 td Facturador electrónico.
               tr
