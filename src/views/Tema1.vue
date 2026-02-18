@@ -72,7 +72,7 @@
 
     .bg-full-width.bg-fondo-1
       .px-4.px-md-5.pb-md-3
-        p.mb-4 Luego de estudiar las diferencias entre los tributos: tasas, contribuciones e impuestos; ahora se profundizará en las generalidades de los impuestos. Conforme a esto, se relacionan los siguientes elementos:
+        p.mb-4 Luego de estudiar las diferencias entre los tributos: tasas, contribuciones e impuestos, ahora se profundizará en las generalidades de los impuestos. Conforme a esto, se relacionan los siguientes elementos:
         .row.justify-content-center.mb-5.align-items-center
           .col-lg-9.mb-3.mb-lg-0.order-lg-2
             SlyderF(columnas="col-md-6 col-xl-6")
