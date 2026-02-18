@@ -27,7 +27,7 @@
               img(src="@/assets/curso/tema2/2.png", data-aos="zoom-in", style="max-width: 550px").mx-auto
           .col-lg-8.order-1.mb-3.mb-lg-0
             div.bg-color-4.tarjeta.p-4.mb-5(data-aos="fade-right")
-              p <b>De acuerdo con el Estatuto Tributario-0624 de 1989</b>, es fundamental atender la clasificación de los contribuyentes y no contribuyentes; por ende, es importante identificar el tipo de impuesto y las responsabilidades que se tiene en cada uno de estos.
+              p <b>De acuerdo con el Estatuto Tributario-0624 de 1989</b>, es fundamental atender la clasificación de los contribuyentes y no contribuyentes; por ende, es importante identificar el tipo de impuesto y las responsabilidades que se tienen en cada uno de estos.
 
               p Para continuar con el componente formativo propuesto, es importante abordar los términos de persona natural y jurídica, teniendo en cuenta que se manejan en el desarrollo del proceso de formación; por lo tanto, los relacionamos a continuación:
         .row
@@ -62,7 +62,7 @@
 
     .bg-full-width.bg-color-2
       .px-4.px-md-5.py-4
-        p.mb-4 A este régimen pertenecen las personas naturales y jurídicas, sucesiones ilíquidas que, al cumplir los requisitos establecidos en la norma legal vigente, deben ser declarantes del impuesto de renta y sus complementarios. En el caso de las personas naturales, que no cumplan con los requerimientos establecidos, se consideran no declarantes del impuesto de renta y sus complementarios.
+        p.mb-4 A este régimen pertenecen las personas naturales y jurídicas, sucesiones ilíquidas que, al cumplir los requisitos establecidos en la norma legal vigente, deben ser declarantes del impuesto de renta y sus complementarios. En el caso de las personas naturales que no cumplan con los requerimientos establecidos, se consideran no declarantes del impuesto de renta y sus complementarios.
         .row.mb-5.justify-content-center
           .col-lg-4.order-2.ps-lg-0
             figure
@@ -76,7 +76,7 @@
                   p.mb-0 Personas naturales residentes y no residentes y sucesiones ilíquidas.
                 li.mb-3.d-flex
                   i.far.fa-folder-open.bg-color-14
-                  p.mb-0 Impuesto sociedades, entidades nacionales y otros contribuyentes.
+                  p.mb-0 Impuesto sobre sociedades, entidades nacionales y otros contribuyentes.
                 li.mb-3.d-flex
                   i.far.fa-folder-open.bg-color-14
                   p.mb-0 Las sociedades anónimas y asimiladas.
@@ -130,7 +130,7 @@
             li.d-flex 
               .lista-ol--cuadro__vineta
                 span 3
-              | Que ni sus aportes sean reembolsados ni sus excedentes distribuidos, bajo ninguna modalidad, cualquiera que sea la denominación que se utilice, ni directa, ni indirectamente, ni durante su existencia, ni en el momento de su disolución y liquidación, de acuerdo con el artículo 356-1.(Estatuto Tributario, 2020, Art. 19)
+              | Que ni sus aportes sean reembolsados ni sus excedentes distribuidos, bajo ninguna modalidad, cualquiera que sea la denominación que se utilice, ni directa ni indirectamente, ni durante su existencia ni en el momento de su disolución y liquidación, de acuerdo con el artículo 356-1 (Estatuto Tributario, 2020, Art. 19)
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -138,7 +138,7 @@
         h3.titulo-con-imagen__texto Régimen de tributación simple
     
     h5.mb-3 Art. 905. Sujetos pasivos – Estatuto Tributario (ET).
-    p.mb-4  <b>Nota 1.</b> Podrán ser sujetos pasivos del impuesto unificado bajo el régimen simple de tributación - SIMPLE las personas naturales o jurídicas que reúnan la totalidad de las siguientes condiciones:
+    p.mb-4  <b>Nota 1.</b> Podrán ser sujetos pasivos del impuesto unificado bajo el régimen simple de tributación - SIMPLE, las personas naturales o jurídicas que reúnan la totalidad de las siguientes condiciones:
 
     .row.mb-5.justify-content-center
       .col-lg-10.mb-4.mb-3
@@ -151,7 +151,7 @@
               figure
                 img(src="@/assets/curso/tema2/7.svg", style="max-width: 300px").mx-auto
             .col-lg-9
-              p.mb-0 1- Que se trate de una persona natural que desarrolle una empresa o de una persona jurídica en la que sus socios, partícipes o accionistas sean personas naturales, nacionales o extranjeras, residentes en Colombia.
+              p.mb-0 <b>1- </b>Que se trate de una persona natural que desarrolle una empresa o de una persona jurídica en la que sus socios, partícipes o accionistas sean personas naturales, nacionales o extranjeras, residentes en Colombia.
       .col-lg-10.mb-4.mb-3
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -162,7 +162,7 @@
               figure
                 img(src="@/assets/curso/tema2/8.svg", style="max-width: 300px").mx-auto
             .col-lg-9
-              p.mb-0 2- Que en el año gravable anterior hubieren obtenido ingresos brutos, ordinarios o extraordinarios, inferiores a 80.000 UVT. En el caso de las empresas o personas jurídicas nuevas, la inscripción en el impuesto unificado bajo el régimen simple de tributación – SIMPLE, estará́ condicionada a que los ingresos del año no superen estos límites.
+              p.mb-0 <b>2-</b> Que en el año gravable anterior hubieren obtenido ingresos brutos, ordinarios o extraordinarios, inferiores a 80.000 UVT. En el caso de las empresas o personas jurídicas nuevas, la inscripción en el impuesto unificado bajo el régimen simple de tributación – SIMPLE, estará́ condicionada a que los ingresos del año no superen estos límites.
       .col-lg-10.mb-4.mb-3
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -173,7 +173,7 @@
               figure
                 img(src="@/assets/curso/tema2/9.svg", style="max-width: 300px").mx-auto
             .col-lg-9
-              p.mb-0 3- Si uno de los socios persona natural tiene una o varias empresas o participa en una o varias sociedades, inscritas en el impuesto unificado bajo el régimen simple de tributación - SIMPLE, los límites máximos de ingresos brutos se revisarán de forma consolidada y en la proporción a su participación en dichas empresas o sociedades.
+              p.mb-0 <b>3-</b> Si uno de los socios persona natural tiene una o varias empresas o participa en una o varias sociedades, inscritas en el impuesto unificado bajo el régimen simple de tributación - SIMPLE, los límites máximos de ingresos brutos se revisarán de forma consolidada y en la proporción a su participación en dichas empresas o sociedades.
       .col-lg-10.mb-4.mb-3
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -184,7 +184,7 @@
               figure
                 img(src="@/assets/curso/tema2/10.svg", style="max-width: 300px").mx-auto
             .col-lg-9
-              p.mb-0 4- Si uno de los socios persona natural tiene una participación superior al 10 % en una o varias sociedades no inscritas en el impuesto unificado bajo el régimen simple de tributación - SIMPLE, los límites máximos de ingresos brutos se revisarán de forma consolidada y en la proporción a su participación en dichas sociedades.
+              p.mb-0 <b>4-</b> Si uno de los socios persona natural tiene una participación superior al 10 % en una o varias sociedades no inscritas en el impuesto unificado bajo el régimen simple de tributación - SIMPLE, los límites máximos de ingresos brutos se revisarán de forma consolidada y en la proporción a su participación en dichas sociedades.
       .col-lg-10.mb-4.mb-3
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -195,7 +195,7 @@
               figure
                 img(src="@/assets/curso/tema2/7.svg", style="max-width: 300px").mx-auto
             .col-lg-9
-              p.mb-0 5- Si uno de los socios persona natural es gerente o administrador de otras empresas o sociedades, los límites máximos de ingresos brutos se revisarán de forma consolidada con los de las empresas o sociedades que administra.
+              p.mb-0 <b>5-</b> Si uno de los socios persona natural es gerente o administrador de otras empresas o sociedades, los límites máximos de ingresos brutos se revisarán de forma consolidada con los de las empresas o sociedades que administra.
       .col-lg-10.mb-4.mb-3
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -206,7 +206,7 @@
               figure
                 img(src="@/assets/curso/tema2/8.svg", style="max-width: 300px").mx-auto
             .col-lg-9
-              p.mb-0 6- La persona natural o jurídica debe estar al día con sus obligaciones tributarias de carácter nacional, departamental y municipal, y con sus obligaciones de pago de contribuciones al Sistema de Seguridad Social Integral. También debe contar con la inscripción respectiva en el Registro Único Tributario - RUT y con todos los mecanismos electrónicos de cumplimiento, firma y factura electrónica.
+              p.mb-0 <b>6-</b> La persona natural o jurídica debe estar al día con sus obligaciones tributarias de carácter nacional, departamental y municipal, y con sus obligaciones de pago de contribuciones al Sistema de Seguridad Social Integral. También debe contar con la inscripción respectiva en el Registro Único Tributario - RUT y con todos los mecanismos electrónicos de cumplimiento, firma y factura electrónica.
 
     .bg-full-width.bg-color-2
       .px-4.px-md-5.py-4
@@ -216,7 +216,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
             h3.titulo-con-imagen__texto No contribuyentes
 
-        h5.mb-5 De acuerdo con el artículo 22 del Estatuto Tributario (ET) se encuentran:
+        h5.mb-5 De acuerdo con el artículo 22 del Estatuto Tributario (ET), se encuentran:
         .row.mb-5.justify-content-center
           .col-lg-5.order-lg-2.mb-3.mb-lg-0
             figure
@@ -240,15 +240,15 @@
                 p.mb-0 Los resguardos y cabildos indígenas, ni la propiedad colectiva de las comunidades negras conforme a la Ley 70 de 1993.
               li.mb-3.d-flex
                 i.far.fa-folder-open.bg-color-14
-                p.mb-0 Los sindicatos, las asociaciones gremiales, los fondos de empleados, los fondos mutuos de inversión, las iglesias y confesiones religiosas reconocidas por el Ministerio del Interior o por la ley, los partidos o movimientos políticos aprobados por el Consejo Nacional Electoral; las asociaciones y federaciones de departamentos y de municipios, las sociedades o entidades de alcohólicos anónimos, los establecimientos públicos y en general cualquier establecimiento oficial descentralizado, siempre y cuando no se señale en la ley de otra manera. Art. 23 Estatuto Tributario (ET).
+                p.mb-0 Los sindicatos, las asociaciones gremiales, los fondos de empleados, los fondos mutuos de inversión, las iglesias y confesiones religiosas reconocidas por el Ministerio del Interior o por la ley, los partidos o movimientos políticos aprobados por el Consejo Nacional Electoral; las asociaciones y federaciones de departamentos y de municipios, las sociedades o entidades de alcohólicos anónimos, los establecimientos públicos y, en general, cualquier establecimiento oficial descentralizado, siempre y cuando no se señale en la ley de otra manera. Art. 23 Estatuto Tributario (ET).
     
     separador
 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Responsabilidades
 
-    p.mb-4 El Registro Único Tributario, RUT, administrado por la Dirección de Impuestos y Aduanas Nacionales –DIAN-, constituye el mecanismo único para identificar, ubicar y clasificar las personas y entidades sujetos de obligaciones administradas por la Dirección de Impuestos y Aduanas Nacionales, respecto de los cuales esta requiera su inscripción.
-    h5.mb-5 Al contribuyente, sea persona natural o jurídica se le asigna las responsabilidades de acuerdo con su actividad, teniendo en cuenta la norma vigente.
+    p.mb-4 El Registro Único Tributario, RUT, administrado por la Dirección de Impuestos y Aduanas Nacionales (DIAN), constituye el mecanismo único para identificar, ubicar y clasificar las personas y entidades sujetos de obligaciones administradas por la Dirección de Impuestos y Aduanas Nacionales, respecto de los cuales esta requiera su inscripción.
+    h5.mb-5 Al contribuyente, sea persona natural o jurídica, se le asigna las responsabilidades de acuerdo con su actividad, teniendo en cuenta la norma vigente.
 
     .row.justify-content-center
       .col-lg-8

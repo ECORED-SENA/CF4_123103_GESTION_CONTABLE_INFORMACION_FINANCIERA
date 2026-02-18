@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Obligaciones tributarias, territoriales y nacionales',
     Description:
-      'En este componente formativo, tendrá la oportunidad de abordar las generalidades acerca de los impuestos, su estructura, clasificación, tipos de contribuyentes e importancia que tiene para el sostenimiento del Estado. Los impuestos se dividen de acuerdo con su estructura tributaria en nacionales, municipales y departamentales y según las necesidades del Estado, para ello tendrá la oportunidad de comprender su organización, clasificación y las normas establecidas y vigentes, como un ejercicio fundamental para el proceso de formación.',
+      'En este componente formativo, tendrá la oportunidad de abordar las generalidades acerca de los impuestos, su estructura, clasificación, tipos de contribuyentes e importancia que tiene para el sostenimiento del Estado. Los impuestos se dividen de acuerdo con su estructura tributaria en nacionales, municipales y departamentales y según las necesidades del Estado; para ello tendrá la oportunidad de comprender su organización, clasificación y las normas establecidas y vigentes, como un ejercicio fundamental para el proceso de formación.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -193,7 +193,7 @@ export default {
     {
       termino: 'Impuesto sobre las ventas',
       significado:
-        'Es un impuesto sobre el gasto o consumo generalmente de tipo masivo del orden nacional, de naturaleza indirecta, real, de causación instantánea, y de régimen general, que recae bajo la modalidad de valor agregado, es decir se aplica en las diferentes etapas del ciclo económico de producción, comercialización importación.  ',
+        'Es un impuesto sobre el gasto o consumo, generalmente de tipo masivo, del orden nacional, de naturaleza indirecta, real, de causación instantánea, y de régimen general, que recae bajo la modalidad de valor agregado, es decir, se aplica en las diferentes etapas del ciclo económico de producción, comercialización e importación.  ',
     },
     {
       termino: 'Impuesto de renta y complementarios',

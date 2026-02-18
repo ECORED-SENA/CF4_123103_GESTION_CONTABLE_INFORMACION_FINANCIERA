@@ -79,11 +79,11 @@
               .bg-color-white.tarjeta.p-4.h-100.shadow-app.text-center
                 img(src='@/assets/curso/tema1/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.mb-4.bg-color-4.px-4 Sujeto activo
-                p Es la entidad encargada de administrar los impuestos, quien está facultado para exigir el cumplimiento de la obligación. En Colombia los impuestos Nacionales son recaudados por la Dirección de Impuestos y Aduanas Nacionales (DIAN).
+                p Es la entidad encargada de administrar los impuestos, quien está facultado para exigir el cumplimiento de la obligación. En Colombia, los impuestos nacionales son recaudados por la Dirección de Impuestos y Aduanas Nacionales (DIAN).
               .bg-color-white.tarjeta.p-4.h-100.shadow-app.text-center
                 img(src='@/assets/curso/tema1/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
-                h4.mb-4.bg-color-4.px-4  Sujeto Pasivo
-                p Es el deudor de la obligación tributaria, pueden ser personas naturales o jurídicas que cumplen con los requisitos exigidos por la norma para declarar determinado impuesto.
+                h4.mb-4.bg-color-4.px-4  Sujeto pasivo
+                p Es el deudor de la obligación tributaria; pueden ser personas naturales o jurídicas que cumplen con los requisitos exigidos por la norma para declarar determinado impuesto.
               .bg-color-white.tarjeta.p-4.h-100.shadow-app.text-center
                 img(src='@/assets/curso/tema1/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.mb-4.bg-color-4.px-4  Hecho generador del impuesto
@@ -112,7 +112,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto  Directos e indirectos
     
-    p.mb-4 Recordemos que existe la clasificación de impuesto directos e indirectos, que se encuentra relacionado con la capacidad de tributación y de progresividad en la tributación.
+    p.mb-4 Recordemos que existe la clasificación de impuestos directos e indirectos, que se encuentra relacionada con la capacidad de tributación y de progresividad en la tributación.
 
     .tarjeta--container.row.mb-5
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
@@ -137,10 +137,10 @@
             p.mb-0 Impuesto predial.
           li.mb-0.d-flex
             i.far.fa-folder-open.bg-color-5
-            p.mb-0 Impuesto vehículos.
+            p.mb-0 Impuesto a vehículos.
       .col-md.tarjeta.bg-color-6-2.p-5 
         h4 Impuestos Indirectos
-        p Recae sobre las operaciones gravadas a lo largo del ciclo económico, en forma no acumulada y con la metodología del valor agregado. Son aquellos, cuya responsabilidad jurídica es diferente a la persona que económicamente asume el impuesto. 
+        p Recae sobre las operaciones gravadas a lo largo del ciclo económico, en forma no acumulada y con la metodología del valor agregado. Son aquellos cuya responsabilidad jurídica es diferente a la persona que económicamente asume el impuesto. 
         h5.mb-3 Ejemplos de Martínez et al. (2016):
         ul.lista-ul--color
           li.mb-0.d-flex
@@ -197,7 +197,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
         div.bg-color-8-1.tarjeta.p-5
-          p.mb-0 A continuación, se realizará una breve descripción de cada uno de estos. Recuerde que para profundizar debe tener en cuenta el Estatuto Tributario (ET)- Decreto 0624 de 1989, así como, la normatividad legal vigente.
+          p.mb-0 A continuación, se realizará una breve descripción de cada uno de estos. Recuerde que, para profundizar, debe tener en cuenta el Estatuto Tributario (ET) - Decreto 0624 de 1989, así como la normatividad legal vigente.
 
     h3.bg-color-4.tarjeta.p-3.mb-5 Impuesto sobre las ventas
     div.bg-color-9.tarjeta.p-5(data-aos="fade-right")
@@ -224,7 +224,7 @@
                     img(src='@/assets/curso/tema1/12.svg', alt='Texto que describa la imagen')
 
               h3.text-center Exentos
-              p Son bienes que por normativa se encuentran gravados a la tarifa del 0 %. Quienes produzcan bienes exentos son responsables del impuesto a las ventas y, por tanto, deben declarar IVA, pero quienes comercialicen bienes exentos no son responsables del impuesto a las ventas. De este modo, sólo los productores de bienes exentos pueden solicitar como descuento el IVA pagado en sus compras. Se encuentran señalados en los artículos 477 a 481 del Estatuto Tributario (ET).
+              p Son bienes que por normativa se encuentran gravados a la tarifa del 0 %. Quienes produzcan bienes exentos son responsables del impuesto a las ventas y, por tanto, deben declarar IVA, pero quienes comercialicen bienes exentos no son responsables del impuesto a las ventas. De este modo, solo los productores de bienes exentos pueden solicitar como descuento el IVA pagado en sus compras. Se encuentran señalados en los artículos 477 a 481 del Estatuto Tributario (ET).
           .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-down")
             .tarjeta--boton.bg-color-3-2.p-4.h-100
               .row.justify-content-center.mb-3
@@ -233,7 +233,7 @@
                     img(src='@/assets/curso/tema1/13.svg', alt='Texto que describa la imagen')
 
               h3.text-center Excluidos
-              p Son aquellos bienes y servicios que por normatividad legal no se encuentran gravados a alguna tarifa, por ende, no se genera impuesto. Para conocer el listado es necesario remitirse al Estatuto tributario (ET) en los artículos 424-428 y 476 (ET), donde aparece un grupo de bienes identificados con la metodología del arancel de aduanas. El listado incluye la numeración o posición arancelaria (NANDINA) y la descripción de la mercancía, siguiendo los reinos de la naturaleza y sus fases de transformación. Colombia Compra Eficiente (2012).
+              p Son aquellos bienes y servicios que, por normatividad legal, no se encuentran gravados a alguna tarifa, por ende, no se genera impuesto. Para conocer el listado, es necesario remitirse al Estatuto Tributario (ET) en los artículos 424-428 y 476 (ET), donde aparece un grupo de bienes identificados con la metodología del arancel de aduanas. El listado incluye la numeración o posición arancelaria (NANDINA) y la descripción de la mercancía, siguiendo los reinos de la naturaleza y sus fases de transformación. Colombia Compra Eficiente (2012).
 
     div.bg-color-8-1.tarjeta.p-5.mb-5(data-aos="fade-right")
       h5 Requisitos
@@ -290,17 +290,17 @@
                 li.d-flex 
                   .lista-ol--cuadro__vineta
                     span 7
-                  | Las entidades emisoras de tarjetas crédito y débito, los vendedores de tarjetas prepago, los recaudadores de efectivo a cargo de terceros, y los demás que designe la Dirección de Impuestos y Aduanas Nacionales (DIAN) en el momento del correspondiente pago o abono en cuenta a los prestadores desde el exterior, de los siguientes servicios electrónicos o digitales, cuando el proveedor del servicio se acoja voluntariamente a este sistema alternativo de pago del impuesto.
+                  | Las entidades emisoras de tarjetas de crédito y débito, los vendedores de tarjetas prepago, los recaudadores de efectivo a cargo de terceros y los demás que designe la Dirección de Impuestos y Aduanas Nacionales (DIAN) en el momento del correspondiente pago o abono en cuenta a los prestadores desde el exterior de los siguientes servicios electrónicos o digitales, cuando el proveedor del servicio se acoja voluntariamente a este sistema alternativo de pago del impuesto.
                 li.d-flex 
                   .lista-ol--cuadro__vineta
                     span 8
                   | Los responsables del impuesto sobre las ventas (IVA) cuando adquieran bienes corporales muebles o servicios gravados, de personas que se encuentren registradas como contribuyentes del impuesto unificado bajo el Régimen Simple de Tributación -SIMPLE.
 
-    p.mb-5 En el caso de pasar los límites establecidos en las condiciones registradas anteriormente, el contribuyente debe registrarse como responsable de IVA, de lo contrario será no responsable.
+    p.mb-5 En el caso de pasar los límites establecidos en las condiciones registradas anteriormente, el contribuyente debe registrarse como responsable de IVA; de lo contrario, será no responsable.
 
     div.bg-color-4.tarjeta.p-5.mb-5(data-aos="fade-right")
       h5 Periodos de presentación
-      p.mb-0 De acuerdo con el Estatuto Tributario (ET) artículo 600, se establece el periodo gravable de forma bimestral y cuatrimestral teniendo en cuenta los siguientes requisitos:    
+      p.mb-0 De acuerdo con el Estatuto Tributario (ET), artículo 600, se establece el periodo gravable de forma bimestral y cuatrimestral, teniendo en cuenta los siguientes requisitos:    
     
 
     .row.mb-5.justify-content-center
@@ -310,7 +310,7 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema1/18.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema1/19.svg', alt='Texto que describa la imagen')
               
             h2.text-center Bimestral
             p La declaración y pago bimestral para aquellos responsables de este impuesto, grandes contribuyentes y aquellas personas jurídicas y naturales cuyos ingresos brutos a 31 de diciembre del año gravable anterior sean iguales o superiores a noventa y dos mil (92.000) UVT y para los responsables de que tratan los artículos 477 y 481 de este Estatuto. Los períodos bimestrales son: enero-febrero; marzo-abril; mayo-junio; julio-agosto; septiembre-octubre; y noviembre-diciembre.
@@ -319,7 +319,7 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema1/19.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/tema1/18.svg', alt='Texto que describa la imagen')
               
             h2.text-center Cuatrimestral
             p Declaración y pago cuatrimestral para aquellos responsables de este impuesto, personas jurídicas y naturales cuyos ingresos brutos a 31 de diciembre del año gravable anterior sean inferiores a noventa y dos mil (92.000) UVT. Los periodos cuatrimestrales serán enero-abril; mayo-agosto; y septiembre-diciembre.
@@ -350,7 +350,7 @@
               .bloque-texto-d__autor 
                 .h5.mb-0 - (Serrano, 2019)
         
-        p.mb-5 Es de recordar que este impuesto, relaciona los elementos del impuesto y que es fundamental identificarlos:
+        p.mb-5 Es de recordar que este impuesto relaciona los elementos del impuesto y que es fundamental identificarlos:
 
         .row
           .col-lg-4.mb-3.mb-lg-0
@@ -367,7 +367,7 @@
               div(titulo="Base gravable")
                 p.mb-0 Renta líquida gravable.
               div(titulo="Tarifa")
-                p.mb-0 Para aplicar la tarifa se tiene en cuenta si es una persona jurídica o personal natural; en este último se tiene en cuenta la normativa legal vigente teniendo en cuenta el sistema cedular.
+                p.mb-0 Para aplicar la tarifa, se tiene en cuenta si es una persona jurídica o persona natural; en esta última se tiene en cuenta la normativa legal vigente, teniendo en cuenta el sistema cedular.
 
     .bg-full-width.bg-color-2
       .px-4.px-md-5.py-4
@@ -377,9 +377,9 @@
             figure
               img(src="@/assets/curso/tema1/22.svg", data-aos="zoom-in")
           .col-lg-7.order-1.mb-3.mb-lg-0
-            p De acuerdo con el Art 871 Estatuto Tributario (ET), es un impuesto que recae sobre la realización de las transacciones financieras, mediante la cual se disponga recursos depositados en las cuentas corrientes o de ahorro, así como en cuentas de depósito en el Banco de la República, y los giros de cheques de gerencia.
+            p De acuerdo con el Art. 871 del Estatuto Tributario (ET), es un impuesto que recae sobre la realización de las transacciones financieras, mediante las cuales se disponga de recursos depositados en las cuentas corrientes o de ahorro, así como en cuentas de depósito en el Banco de la República, y los giros de cheques de gerencia.
             div.bg-color-12.p-4
-              p.mb-0 Este impuesto presenta algunas exenciones, que es importante analizar con el fin de dar aplicabilidad correcta; por ende, se encuentran señaladas en al ART. 879 del Estatuto Tributario (ET).
+              p.mb-0 Este impuesto presenta algunas exenciones, que es importante analizar con el fin de dar aplicabilidad correcta; por ende, se encuentran señaladas en el ART. 879 del Estatuto Tributario (ET).
         .row.mb-5
           .col-lg-3.order-2
             figure
@@ -392,7 +392,7 @@
                   p.mb-0 <b>Sujeto activo:</b>  es un impuesto administrado por la Dirección de Impuestos y Aduanas Nacionales (DIAN). 
                 li.mb-4.d-flex
                   i.far.fa-folder-open.bg-color-7
-                  p.mb-0Impuesto <b>Hecho generador:</b> recae sobre la realización de las transacciones financieras, mediante la cual se disponga recursos depositados en las cuentas corrientes o de ahorro, así como en cuentas de depósito en el Banco de la República, y los giros de cheques de gerencia.  Art. 871 Estatuto Tributario (ET).
+                  p.mb-0Impuesto <b>Hecho generador:</b> recae sobre la realización de las transacciones financieras, mediante las cuales se disponga de recursos depositados en las cuentas corrientes o de ahorro, así como en cuentas de depósito en el Banco de la República, y los giros de cheques de gerencia.  Art. 871 Estatuto Tributario (ET).
                 li.mb-4.d-flex
                   i.far.fa-folder-open.bg-color-7
                   p.mb-0Impuesto <b>Base gravable:</b>  valor total de la transacción financiera.
@@ -425,7 +425,7 @@
                 li.d-flex 
                   .lista-ol--cuadro__vineta
                     span 3
-                  | Las personas naturales, nacionales o extranjeras, que no tengan residencia en el país, respecto de su patrimonio poseído indirectamente a través de establecimientos permanentes, en el país, salvo las excepciones previstas en los tratados internacionales y en el derecho interno.
+                  | Las personas naturales, nacionales o extranjeras, que no tengan residencia en el país, respecto de su patrimonio poseído indirectamente a través de establecimientos permanentes en el país, salvo las excepciones previstas en los tratados internacionales y en el derecho interno.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -440,7 +440,7 @@
                 li.d-flex 
                   .lista-ol--cuadro__vineta
                     span 5
-                  | Las sociedades o entidades extranjeras que no sean declarantes del impuesto sobre la renta en el país, y que posean bienes ubicados en Colombia diferentes a acciones, cuentas por cobrar y/o inversiones de portafolio de conformidad con el artículo 2.17.2.2.1.2 del Decreto 1068 de 2015 y el 18-1 de este estatuto.
+                  | Las sociedades o entidades extranjeras que no sean declarantes del impuesto sobre la renta en el país, y que posean bienes ubicados en Colombia diferentes a acciones, cuentas por cobrar y/o inversiones de portafolio, de conformidad con el artículo 2.17.2.2.1.2 del Decreto 1068 de 2015 y el 18-1 de este estatuto.
     
     h5.mb-5 ARTÍCULO 294-2, Estatuto Tributario (ET). Hecho generador.
 
@@ -449,7 +449,7 @@
 
     h3.bg-color-4.tarjeta.p-3.mb-4 Impuesto al consumo
 
-    p.mb-5 El Artículo 512-1 del Estatuto Tributario (ET), señala que el impuesto nacional al consumo tiene como hecho generador la prestación o la venta al consumidor final o la importación por parte del consumidor final, de los siguientes servicios y bienes:
+    p.mb-5 El Artículo 512-1 del Estatuto Tributario (ET) señala que el impuesto nacional al consumo tiene como hecho generador la prestación o la venta al consumidor final o la importación por parte del consumidor final de los siguientes servicios y bienes:
 
     .row.mb-5.justify-content-center
       .col-lg-10.mb-4.mb-3
@@ -471,7 +471,7 @@
               figure
                 img(src="@/assets/curso/tema1/27.svg", style="max-width: 300px").mx-auto
             .col-lg-7
-              p.mb-0 Las ventas de algunos bienes corporales muebles, de producción doméstica o importados, según lo dispuesto en los artículos 512-3, 512-4 y 512-5 de este Estatuto. El impuesto al consumo no se aplicará a las ventas de los bienes mencionados en los artículos 512-3 y 512-4 si son activos fijos para el vendedor, salvo de que se trate de los automotores y demás activos fijos que se vendan a nombre y por cuenta de terceros y para los aerodinos.
+              p.mb-0 Las ventas de algunos bienes corporales muebles, de producción doméstica o importados, según lo dispuesto en los artículos 512-3, 512-4 y 512-5 de este Estatuto. El impuesto al consumo no se aplicará a las ventas de los bienes mencionados en los artículos 512-3 y 512-4 si son activos fijos para el vendedor, salvo que se trate de los automotores y demás activos fijos que se vendan a nombre y por cuenta de terceros y para los aerodinos.
       .col-lg-10.mb-4.mb-3
         .tarjeta-numerada.color-primario.p-3
           .tarjeta-numerada__numero
@@ -483,7 +483,7 @@
             .col-lg-7
               p.mb-0 El servicio de expendio de comidas y bebidas preparadas en restaurantes, cafeterías, autoservicios, heladerías, fruterías, pastelerías y panaderías para consumo en el lugar, para ser llevadas por el comprador o entregadas a domicilio, los servicios de alimentación bajo contrato, incluyendo el servicio de catering, y el servicio de expendio de comidas y bebidas alcohólicas para consumo dentro de bares, tabernas y discotecas; (sic) según lo dispuesto en los artículos 426, 512-8, 512-9, 512-10, 512-11, 512- 12 y 512-13 de este estatuto. Este impuesto no es aplicable a las actividades de expendio de bebidas y comidas bajo franquicias.
 
-    p.mb-4 Para profundizar en esta temática indague en el Estatuto Tributario (ET) artículos del 512-1 al 512-22.
+    p.mb-4 Para profundizar en esta temática, indague en el Estatuto Tributario (ET) artículos del 512-1 al 512-22.
 
     h3.bg-color-4.tarjeta.p-3.mb-4 Impuesto unificado bajo el régimen simple de tributación
 
@@ -495,7 +495,7 @@
               img(src="@/assets/curso/tema1/29.svg", data-aos="zoom-in", style="max-width: 350px").mx-auto
           .col-lg-10.order-1.mb-3.mb-lg-0
             p Este impuesto fue creado mediante la Ley 1943 de 2018 y ratificado en la Ley 2010 de 2019.
-            p <b>El artículo 903 del Estatuto Tributario (ET) expresa.</b> “es un modelo de tributación opcional de determinación integral, de declaración anual y anticipo bimestral, que integra el impuesto sobre la renta, el impuesto nacional al consumo y el impuesto de industria y comercio consolidado, a cargo de los contribuyentes que opten voluntariamente por acogerse al mismo”.
+            p <b>El artículo 903 del Estatuto Tributario (ET) expresa.</b> “Es un modelo de tributación opcional de determinación integral, de declaración anual y anticipo bimestral, que integra el impuesto sobre la renta, el impuesto nacional al consumo y el impuesto de industria y comercio consolidado, a cargo de los contribuyentes que opten voluntariamente por acogerse al mismo”.
         .row.mb-5
           .col-lg-5.order-2
             figure
@@ -509,7 +509,7 @@
 
     h3.bg-color-4.tarjeta.p-3.mb-4 Impuestos departamentales
 
-    p.mb-4 Son impuestos creados en la jurisdicción departamental, mediante ordenanzas para financiar el presupuesto del departamento; por lo tanto, tiene su propia normativa. 
+    p.mb-4 Son impuestos creados en la jurisdicción departamental, mediante ordenanzas para financiar el presupuesto del departamento; por lo tanto, tienen su propia normativa. 
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -521,8 +521,8 @@
             .col-lg-7.order-1.mb-3.mb-lg-0
               h4.mb-5 1. Impuesto a la venta y consumo de licores
               p Este impuesto lo constituye el consumo en el territorio nacional de cervezas, sifones, refajos y mezclas de bebidas fermentadas con bebidas no alcohólicas.
-              p No generan este impuesto las exportaciones y el tránsito por el territorio del Distrito Capital, de cervezas, sifones, refajos, y mezclas de bebidas fermentadas con bebidas no alcohólicas.
-              p Son responsables del impuesto los productores, los importadores, y solidariamente con ellos, los distribuidores. Además, son responsables directos del impuesto los transportadores y los expendedores al detal, cuando no puedan justificar debidamente la procedencia de los productos que transportan o expenden.
+              p No generan este impuesto las exportaciones y el tránsito por el territorio del Distrito Capital de cervezas, sifones, refajos y mezclas de bebidas fermentadas con bebidas no alcohólicas.
+              p Son responsables del impuesto los productores, los importadores y solidariamente con ellos, los distribuidores. Además, son responsables directos del impuesto los transportadores y los expendedores al detal, cuando no puedan justificar debidamente la procedencia de los productos que transportan o expenden.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -551,14 +551,14 @@
 
         p <b>Sujeto pasivo:</b> personas naturales y jurídicas, que cumplan los requisitos establecidos para generar el impuesto.
 
-        p <b>Hecho generador:</b> el hecho generador del impuesto de industria y comercio está constituido por el ejercicio o realización directa o indirecta de cualquier actividad industrial, comercial o de servicios en la jurisdicción del Distrito Capital de Bogotá, ya sea que se cumplan de forma permanente u ocasional, en inmueble determinado, con establecimientos de comercio o sin ellos.   Artículo 32 Decreto 352 de 2002.
+        p <b>Hecho generador:</b> el hecho generador del impuesto de industria y comercio está constituido por el ejercicio o realización directa o indirecta de cualquier actividad industrial, comercial o de servicios en la jurisdicción del Distrito Capital de Bogotá, ya sea que se cumplan de forma permanente u ocasional, en inmueble determinado, con establecimientos de comercio o sin ellos. Artículo 32, Decreto 352 de 2002.
 
         p <b>Base gravable:</b> ingresos netos del contribuyente.
 
         p <b>Tarifa:</b> depende de la actividad económica que ejerza la persona natural o jurídica.
 
       div(titulo="Impuesto predial unificado")
-        p.mb-0 Es un impuesto de naturaleza directa que grava los bienes inmuebles y debe ser cancelado de forma anual teniendo en cuenta la actualización del avalúo catastral realizado por la Unidad Administrativa Especial de Catastro Distrital (UAECD), a dicho valor se aplica la tarifa vigente correspondiente al predio, estos pueden ser casas, lotes, apartamentos, etc.
+        p.mb-0 Es un impuesto de naturaleza directa que grava los bienes inmuebles y debe ser cancelado de forma anual, teniendo en cuenta la actualización del avalúo catastral realizado por la Unidad Administrativa Especial de Catastro Distrital (UAECD); a dicho valor se aplica la tarifa vigente correspondiente al predio; estos pueden ser casas, lotes, apartamentos, etc.
       div(titulo="Impuesto de vehículos")
         p.mb-0 El impuesto de vehículos recae sobre la posesión de automotores, su naturaleza es directa, teniendo en cuenta que grava directamente al que tiene la propiedad. Se cancela de forma anual, teniendo en cuenta el avalúo que se establece de acuerdo con el modelo, capacidad, marca, línea por resolución del Ministerio de Transporte para cada año (Secretaría Distrital de Hacienda, 2020, 20 de octubre).
       div(titulo="Impuesto unificado de fondo de pobres, azar y espectáculos públicos")
@@ -585,7 +585,8 @@
         p.mb-0 Es un impuesto distrital que recae sobre la ejecución de obras o construcciones con licencia de construcción o reconocimiento. Es aplicable a construcciones nuevas y/o remodelaciones.
       div(titulo="Sobretasa a la gasolina motor y al ACPM ")
         p-3 Es un tributo que se declara y paga por el consumo de gasolina motor extra o corriente nacional o importada y/o ACPM nacional o importado, en el Distrito Capital de Bogotá. No genera sobretasa las exportaciones de gasolina motor extra y corriente o de ACPM.
-        p.mb-0 La sobretasa se causa en el momento en que el distribuidor mayorista, productor o importador enajena la gasolina motor extra o corriente o ACPM, al distribuidor minorista o al consumidor final (Secretaría Distrital de Hacienda, 2020, 20 de octubre).
+        p
+        p-3  La sobretasa se causa en el momento en que el distribuidor mayorista, productor o importador enajena la gasolina motor extra o corriente o ACPM al distribuidor minorista o al consumidor final (Secretaría Distrital de Hacienda, 2020, 20 de octubre).
 
 </template>
 
