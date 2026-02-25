@@ -2,27 +2,30 @@
   .curso-main-container.pb-3
     BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      // Operación de procesos contables y financieros in bold, smaller, and left-aligned
-      p.mt-2.text-left.font-weight-bold(style="font-size: 1.2rem;") Operación de procesos contables y financieros.
       
-      // Síntesis: Obligaciones tributarias
-      p.mt-2
-        strong Síntesis:
-        |  Obligaciones tributarias, territoriales y nacionales
       
-      // A continuación paragraph with more space between
-      p.mt-5 "A continuación, se presenta una síntesis de la temática estudiada en el componente formativo."
+      .row.mb-5
+        .col-12.ps-3(style="border-left: 10px solid #39A900;") 
+          h3.mb-1 Operación de procesos contables y financieros.
+          p.mb-0 
+            strong Síntesis: 
+            | Obligaciones tributarias, territoriales y nacionales
+
+      
+      p.mt-5 A continuación, se presenta una síntesis de la temática estudiada en el componente formativo.
 
       .row.justify-content-center
         .col-lg-10.mb-5.bgs.p-4.brad
           figure
-            img(src="@/assets/curso/sintesis.svg", alt="Síntesis sobre obligaciones tributarias, que clasifica los impuestos en nacionales, departamentales y municipales. Detalla los elementos de los impuestos, como sujeto activo y pasivo, hecho generador, base gravable y tarifa. Explica los tipos de impuestos, diferenciando entre directos e indirectos. Presenta los regímenes tributarios: ordinario, especial y simple. Finalmente, menciona responsabilidades tributarias como el Registro Único Tributario (RUT) y la declaración y pago según la actividad económica")
-      .col-auto.text-center
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/bullets/icono-pdf.svg")
-          .anexo__texto
-            p Anexo. Síntesis
+            img(src="@/assets/curso/sintesis.svg", alt="Síntesis sobre obligaciones tributarias...")
+      
+      .row.justify-content-center
+        .col-auto.text-center
+          a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+            .anexo__icono
+              img(src="@/assets/bullets/icono-pdf.svg")
+            .anexo__texto
+              p Anexo. Síntesis
 </template>
 
 <script>
