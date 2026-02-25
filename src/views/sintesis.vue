@@ -8,7 +8,8 @@
         .col-12.ps-3(style="border-left: 10px solid #39A900;") 
           h3.mb-1 Operación de procesos contables y financieros.
           p.mb-0 
-            strong Síntesis: 
+            | Síntesis: 
+            
             | Obligaciones tributarias, territoriales y nacionales
 
       
