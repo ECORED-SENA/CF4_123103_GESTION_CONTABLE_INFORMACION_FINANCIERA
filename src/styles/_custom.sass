@@ -2,17 +2,17 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 66%
-    right: 58%
+    top: 60%
+    right: 30%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 32%
-    right: 22%
+    top: 30%
+    right: 0%
   &-3
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 24%
+    top: 5%
     right: 74%
 
 @keyframes float1
@@ -21,6 +21,12 @@
   100%
     transform: translateY(0px)
 
+@keyframes float2
+  0%
+    transform: translateX(20px)
+  100%
+    transform: translateX(0px)
+
 .banner-interno__fondo
   background-image: url("../assets/curso/portada/fondo-banner-interno.png") !important
 
@@ -28,20 +34,15 @@
   background-position: left 50% !important
 
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 400px !important
+  padding-bottom: 0px !important
+  margin-bottom: 0px !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important
 
-.banner-interno__titulo__icono i
-  color: $color-primario
-.banner-principal__img
-  @media screen and (min-width: $bp-min-sm)
-    padding-top: 0
-
 figcaption
   font-weight: normal
-
 
 .bg-full-width
   background-size: cover
@@ -128,22 +129,22 @@ figcaption
     background-color: #fff
 //CLASES TITULOS//
 .titulo-con-imagen 
-  display: flex;
-  align-items: center;
-  position: relative;
+  display: flex
+  align-items: center
+  position: relative
 .titulo-con-imagen__fondo 
-  background-color: #FD9826; 
-  border-radius: 10px;
-  padding: 10px 20px;
-  display: inline-flex;
-  align-items: center;
+  background-color: #FD9826
+  border-radius: 10px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
 .titulo-con-imagen__imagen 
-  position: absolute;
-  left: -30px; 
-  width: 50px; 
+  position: absolute
+  left: -30px
+  width: 50px
 .titulo-con-imagen__texto 
-  margin: 0;
-  padding-left: 20px; 
+  margin: 0
+  padding-left: 20px
 //CLASES REEMPLAZADAS//
 .lista-ol--cuadro__vineta
   color: $color-sistema-texto
@@ -172,8 +173,6 @@ figcaption
   background-color: $color-acento-contenido !important
 .tabla-a th, table td 
   text-align: start
-.banner-principal__row .banner-principal__img
-  width: 500px !important
 .separador__tabla
   background-color: #F6F6F6
 

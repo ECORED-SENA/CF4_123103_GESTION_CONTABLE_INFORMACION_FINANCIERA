@@ -128,7 +128,7 @@
             p.mb-0 Impuesto al patrimonio.
           li.mb-0.d-flex
             i.far.fa-folder-open.bg-color-5
-            p.mb-0Impuesto Sobre la renta y complementarios
+            p.mb-0 Impuesto Sobre la renta y complementarios
           li.mb-0.d-flex
             i.far.fa-folder-open.bg-color-5
             p.mb-0 Impuesto de industria y comercio (ICA).
@@ -139,7 +139,7 @@
             i.far.fa-folder-open.bg-color-5
             p.mb-0 Impuesto a vehículos.
       .col-md.tarjeta.bg-color-6-2.p-5 
-        h4 Impuestos Indirectos
+        h4 Impuestos indirectos
         p Recae sobre las operaciones gravadas a lo largo del ciclo económico, en forma no acumulada y con la metodología del valor agregado. Son aquellos cuya responsabilidad jurídica es diferente a la persona que económicamente asume el impuesto. 
         h5.mb-3 Ejemplos de Martínez et al. (2016):
         ul.lista-ul--color
@@ -148,7 +148,7 @@
             p.mb-0 Impuesto a las ventas (IVA).
           li.mb-0.d-flex
             i.far.fa-folder-open.bg-color-7
-            p.mb-0Impuesto Gravamen a los movimientos financieros (GMF).
+            p.mb-0 Impuesto Gravamen a los movimientos financieros (GMF).
           li.mb-0.d-flex
             i.far.fa-folder-open.bg-color-7
             p.mb-0 Impuesto de registro.
@@ -247,7 +247,6 @@
               figure
                 img(src="@/assets/curso/tema1/15.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h4.mb-5 Requisitos
               ol.lista-ol--cuadro.ms-4
                 li.d-flex 
                   .lista-ol--cuadro__vineta
@@ -266,7 +265,6 @@
               figure
                 img(src="@/assets/curso/tema1/16.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h4.mb-5 Requisitos
               ol.lista-ol--cuadro.ms-4
                 li.d-flex 
                   .lista-ol--cuadro__vineta
@@ -285,7 +283,6 @@
               figure
                 img(src="@/assets/curso/tema1/17.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h4.mb-5 Requisitos
               ol.lista-ol--cuadro.ms-4
                 li.d-flex 
                   .lista-ol--cuadro__vineta
@@ -326,13 +323,13 @@
 
     div.bg-color-6-2.tarjeta.p-5.mb-5(data-aos="fade-right")
       h5 Categoría del impuesto a las ventas
-      ul.lista-ul--color
+      ul.lista-ul--color.mb-0
         li.mb-0.d-flex
           i.far.fa-folder-open.bg-color-7
           p.mb-0 <b>IVA Generado:</b> es el impuesto cobrado por el vendedor en el momento de realizar una venta de un bien o servicio gravado. 
-        li.mb-0.d-flex
+        li.mb-0.d-flex.mb-0
           i.far.fa-folder-open.bg-color-7
-          p.mb-0Impuesto <b>IVA Descontable:</b> es el impuesto pagado o causado por el comprador en el momento de realizar una compra de un bien o servicio gravado.   
+          p.mb-0 <b>IVA Descontable:</b> es el impuesto pagado o causado por el comprador en el momento de realizar una compra de un bien o servicio gravado.   
   
     .bg-full-width.bg-color-2
       .px-4.px-md-5.py-4
@@ -379,26 +376,26 @@
           .col-lg-7.order-1.mb-3.mb-lg-0
             p De acuerdo con el Art. 871 del Estatuto Tributario (ET), es un impuesto que recae sobre la realización de las transacciones financieras, mediante las cuales se disponga de recursos depositados en las cuentas corrientes o de ahorro, así como en cuentas de depósito en el Banco de la República, y los giros de cheques de gerencia.
             div.bg-color-12.p-4
-              p.mb-0 Este impuesto presenta algunas exenciones, que es importante analizar con el fin de dar aplicabilidad correcta; por ende, se encuentran señaladas en el ART. 879 del Estatuto Tributario (ET).
+              p.mb-0 Este impuesto presenta algunas exenciones, que es importante analizar con el fin de dar aplicabilidad correcta; por ende, se encuentran señaladas en el Art. 879 del Estatuto Tributario (ET).
         .row.mb-5
           .col-lg-3.order-2
             figure
               img(src="@/assets/curso/tema1/23.svg", data-aos="zoom-in", style="width: 300px").m-auto
           .col-lg-9.order-1.mb-3.mb-lg-0
             div.bg-color-8-1.tarjeta.p-5.mb-5(data-aos="fade-right")
-              ul.lista-ul--color
+              ul.lista-ul--color.mb-0
                 li.mb-4.d-flex
                   i.far.fa-folder-open.bg-color-7
                   p.mb-0 <b>Sujeto activo:</b>  es un impuesto administrado por la Dirección de Impuestos y Aduanas Nacionales (DIAN). 
                 li.mb-4.d-flex
                   i.far.fa-folder-open.bg-color-7
-                  p.mb-0Impuesto <b>Hecho generador:</b> recae sobre la realización de las transacciones financieras, mediante las cuales se disponga de recursos depositados en las cuentas corrientes o de ahorro, así como en cuentas de depósito en el Banco de la República, y los giros de cheques de gerencia.  Art. 871 Estatuto Tributario (ET).
+                  p.mb-0 <b>Hecho generador:</b> recae sobre la realización de las transacciones financieras, mediante las cuales se disponga de recursos depositados en las cuentas corrientes o de ahorro, así como en cuentas de depósito en el Banco de la República, y los giros de cheques de gerencia.  Art. 871 Estatuto Tributario (ET).
                 li.mb-4.d-flex
                   i.far.fa-folder-open.bg-color-7
-                  p.mb-0Impuesto <b>Base gravable:</b>  valor total de la transacción financiera.
-                li.mb-4.d-flex
+                  p.mb-0 <b>Base gravable:</b>  valor total de la transacción financiera.
+                li.d-flex
                   i.far.fa-folder-open.bg-color-7
-                  p.mb-0Impuesto <b>Tarifa:</b>  4*1000.
+                  p.mb-0 <b>Tarifa:</b>  4*1000.
 
         h3.bg-color-4.tarjeta.p-3 Impuesto al patrimonio
 
@@ -571,7 +568,7 @@
             p.mb-0 Apuestas sobre toda clase de juegos permitidos.
           li.mb-0.d-flex
             i.far.fa-folder-open.bg-color-13
-            p.mb-0Impuesto Rifas promocionales.
+            p.mb-0 Rifas promocionales.
           li.mb-0.d-flex
             i.far.fa-folder-open.bg-color-13
             p.mb-0 Concursos y similares.
@@ -584,9 +581,8 @@
       div(titulo="Impuesto de delineación urbana")
         p.mb-0 Es un impuesto distrital que recae sobre la ejecución de obras o construcciones con licencia de construcción o reconocimiento. Es aplicable a construcciones nuevas y/o remodelaciones.
       div(titulo="Sobretasa a la gasolina motor y al ACPM ")
-        p-3 Es un tributo que se declara y paga por el consumo de gasolina motor extra o corriente nacional o importada y/o ACPM nacional o importado, en el Distrito Capital de Bogotá. No genera sobretasa las exportaciones de gasolina motor extra y corriente o de ACPM.
-        p
-        p-3  La sobretasa se causa en el momento en que el distribuidor mayorista, productor o importador enajena la gasolina motor extra o corriente o ACPM al distribuidor minorista o al consumidor final (Secretaría Distrital de Hacienda, 2020, 20 de octubre).
+        p Es un tributo que se declara y paga por el consumo de gasolina motor extra o corriente nacional o importada y/o ACPM nacional o importado, en el Distrito Capital de Bogotá. No genera sobretasa las exportaciones de gasolina motor extra y corriente o de ACPM.
+        p  La sobretasa se causa en el momento en que el distribuidor mayorista, productor o importador enajena la gasolina motor extra o corriente o ACPM al distribuidor minorista o al consumidor final (Secretaría Distrital de Hacienda, 2020, 20 de octubre).
 
 </template>
 
